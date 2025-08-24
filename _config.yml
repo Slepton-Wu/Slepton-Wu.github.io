@@ -12,5 +12,4 @@ plugins:
 minima:
   nav_links:
     - { title: "Home", url: "/" }
-    - { title: "Publications", url: "/publications/" }
-    - { title: "Notes", url: "/notes/" }
+    - { title: "Notes", url: "/Notes/" }
