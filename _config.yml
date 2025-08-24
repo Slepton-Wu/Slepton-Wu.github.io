@@ -13,3 +13,10 @@ minima:
   nav_links:
     - { title: "Home", url: "/" }
     - { title: "Notes", url: "/Notes/" }
+
+collections:
+  notes:
+    output: true
+defaults:
+  - scope: { path: "", type: notes }
+    values: { layout: page, permalink: /notes/:title/ }
