@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Notes"
-permalink: /Notes/
+permalink: /notes/
 ---
-
 Links to your course/research notes.
