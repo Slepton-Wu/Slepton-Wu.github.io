@@ -1,0 +1,16 @@
+title: "Yue Wu"
+description: "Theoretical chemist doing path integral molecular dynamics. Sharing Cambridge natural sciences and mathematics notes"
+
+url: "https://slepton-wu.github.io"
+baseurl: ""
+theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+minima:
+  nav_links:
+    - { title: "Home", url: "/" }
+    - { title: "Publications", url: "/publications/" }
+    - { title: "Notes", url: "/notes/" }
