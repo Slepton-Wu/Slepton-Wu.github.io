@@ -19,4 +19,5 @@ permalink: /notes/
 - [Complex Analysis](/notes/CA.pdf)
 - [Groups, Rings and Modules](/notes/GRM.pdf)
 - [Principles of Quantum Mechanics](/notes/PQM.pdf)
+- [Path Integral](/notes/path_integral.pdf)
 - [Ring Polymer Molecular Dynamics](/notes/Ring_Polymer.pdf)
