@@ -3,8 +3,8 @@ layout: page
 title: "Notes"
 permalink: /notes/
 ---
-
 ## Course & research notes
+
 - [Mathematical Methods](/notes/NST_Methods.pdf)
 - [High Resolution Molecular Spectroscopy](/notes/Molecular_Spectroscopy.pdf)
 - [Theoretical Techniques](/notes/Theoretical_Techniques.pdf)
@@ -15,6 +15,7 @@ permalink: /notes/
 - [Further Quantum Mechanics](/notes/Further_QM.pdf)
 - [Computer Simulation Methods](/notes/Simulation.pdf)
 - [Surfaces and Interfaces](/notes/Surfaces.pdf)
+- [Inorganic Materials](/notes/Inorganic_Materials.pdf)
 - [Analysis and Topology](/notes/Anatop.pdf)
 - [Complex Analysis](/notes/CA.pdf)
 - [Groups, Rings and Modules](/notes/GRM.pdf)
