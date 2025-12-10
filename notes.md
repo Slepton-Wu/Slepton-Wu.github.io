@@ -21,4 +21,4 @@ permalink: /notes/
 - [Groups, Rings and Modules](/notes/GRM.pdf)
 - [Principles of Quantum Mechanics](/notes/PQM.pdf)
 - [Path Integral](/notes/path_integral.pdf)
-- [Ring Polymer Molecular Dynamics](/notes/Ring_Polymer.pdf)
+- [RPMD and Matsubara](/notes/RPMD_and_Matsubara.pdf)
